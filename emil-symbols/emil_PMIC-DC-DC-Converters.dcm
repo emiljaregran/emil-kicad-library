@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DU06S
+D Delta-Electronics DC/DC Converters
+F https://www.distrelec.de/Web/Downloads/_t/ds/du06s_eng_tds.pdf
+$ENDCMP
+#
+#End Doc Library
