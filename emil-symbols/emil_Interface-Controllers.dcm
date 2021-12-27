@@ -1,8 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP DS2482-100
-D I2C-to-1-Wire® bridge
-F https://datasheets.maximintegrated.com/en/ds/DS2482-100.pdf
-$ENDCMP
-#
-#End Doc Library
