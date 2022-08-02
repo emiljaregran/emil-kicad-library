@@ -28,4 +28,9 @@
   (pad "S1" thru_hole oval (at -4.32 3.98) (size 1 1.7) (drill oval 0.5 1.2) (layers *.Cu *.Mask) (tstamp 993ab8ba-a002-48cd-9fc5-caa0f6e2a2f2))
   (pad "S1" thru_hole oval (at -4.32 0.18) (size 1 1.7) (drill oval 0.5 1.2) (layers *.Cu *.Mask) (tstamp a727c24d-717b-4ef9-aee9-ed6fd69129b4))
   (pad "S1" thru_hole oval (at 4.32 3.98) (size 1 1.7) (drill oval 0.5 1.2) (layers *.Cu *.Mask) (tstamp fd77ac50-b1b9-45df-8f21-df882aa37e77))
+  (model "${EMIL_3DMODEL_DIR}/HRO_TYPE-C-31-M-12.step"
+    (offset (xyz -4.5 -7 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
