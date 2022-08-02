@@ -26,4 +26,9 @@
   (pad "2" thru_hole circle (at 2.25 0) (size 2 2) (drill 1.1) (layers *.Cu *.Mask) (tstamp 3d244beb-49bf-4012-b717-5f62ba3c13f3))
   (pad "3" thru_hole circle (at -3.6 -2.5) (size 2.5 2.5) (drill 1.4) (layers *.Cu *.Mask) (tstamp 30329450-98db-48ef-a0ea-9f2c600c82e2))
   (pad "3" thru_hole circle (at 3.6 -2.5) (size 2.5 2.5) (drill 1.4) (layers *.Cu *.Mask) (tstamp 935fd365-4074-42e4-95b7-ab0a03a3a53c))
+  (model "${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_Tactile_SPST_Angled_PTS645Vx83-2LFS.wrl"
+    (offset (xyz 2 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 180))
+  )
 )
